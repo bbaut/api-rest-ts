@@ -1,0 +1,1 @@
+In this exercise of creation of a API REST with Typescript is used the MVC design pattern.
