@@ -1,0 +1,10 @@
+/node_modules
+/private
+/.vs
+*.env
+*.env.*
+testResolver.js
+/temp
+/aws/lambda/**/*.zip
+.DS_Store
+secrets.*json
